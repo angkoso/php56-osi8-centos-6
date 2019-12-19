@@ -1,0 +1,15 @@
+download driver instantclient basic,devel dan sql plus
+
+oracle-instantclient11.2-basic-11.2.0.4.0-1.x86_64.rpm
+oracle-instantclient11.2-devel-11.2.0.4.0-1.x86_64.rpm
+oracle-instantclient11.2-sqlplus-11.2.0.4.0-1.x86_64.rpm
+
+install semua driver 
+
+intall php-pear 
+download oci8-2.0.0
+intall oci8-2.0.0
+
+autodetected : instantclient,/usr/lib/oracle/12.0/
+
+
